@@ -129,6 +129,7 @@ def reducer_query_5(sequence):
     return list(counter.items())
 
 
+
 #
 # ORQUESTADOR:
 #
